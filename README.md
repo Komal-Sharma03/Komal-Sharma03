@@ -10,10 +10,13 @@ I am an Information Technology student and an aspiring AI engineer and developer
 
 ### My ELUSOC 2026 Badges!
 
-<a href="https://edulinkup.dev/elusoc/profile/Komal-Sharma03">
-  <img src="https://edulinkup.dev/elusoc/images/ticket/spawnling.png" width="60" alt="Spawnling" />
-  <img src="https://edulinkup.dev/elusoc/images/ticket/stone_coder.png" width="60" alt="Stone Coder" />
-  <img src="https://edulinkup.dev/elusoc/images/ticket/iron_developer.png" width="60" alt="Iron Developer" />
+### My ELUSOC 2026 Badges!
+
+<a href="https://www.edulinkup.dev/elusoc/profile/Komal-Sharma03">
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/spawnling.png" width="60" alt="Spawnling" />
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/stone_coder.png" width="60" alt="Stone Coder" />
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/iron_developer.png" width="60" alt="Iron Developer" />
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/gold_engineer.png" width="60" alt="Gold Engineer" />
 </a>
 
 
