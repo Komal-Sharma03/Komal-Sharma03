@@ -19,7 +19,6 @@ I am an Information Technology student and an aspiring AI engineer and developer
   <img src="https://www.edulinkup.dev/elusoc/images/ticket/gold_engineer.png" width="60" alt="Gold Engineer" />
 </a>
 
-
 ## 📫 Connect with me
 *   **LinkedIn**: [in/komalsharma-it-bitsindri](https://www.linkedin.com/in/komalsharma-it-bitsindri)
 <!--
