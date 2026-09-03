@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Komal Sharma! 
 
-I am an Information Technology student and an aspiring AI engineer and developer.
+I am an Information Technology student and an aspiring software and AI developer.
 
 ## 🛠 Areas of Expertise
 *   **Full-Stack Development**: Crafting end-to-end applications.
