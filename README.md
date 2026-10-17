@@ -1,4 +1,4 @@
-## Hi there 👋
+0## Hi there 👋
 # I'm Komal Sharma! 
 
 I am an Information Technology student and an aspiring software and AI developer.
